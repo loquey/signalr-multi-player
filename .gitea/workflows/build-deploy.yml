@@ -1,0 +1,5 @@
+name: signalr-game-server
+on:
+  pull_request:
+	branches:
+	  - master
